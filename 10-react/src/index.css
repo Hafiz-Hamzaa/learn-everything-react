@@ -1,0 +1,10 @@
+@import "tailwindcss";
+button{
+    width: 120px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    margin: 6px;
+    cursor: pointer;
+}
